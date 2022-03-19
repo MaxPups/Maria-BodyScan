@@ -5,7 +5,7 @@
 }
 @media (min-width: 768px){
     .audio-player {
-        width: 50vw;
+        /* width: 50vw; */
     } 
 }
 @media (max-width: 768px){
@@ -47,12 +47,12 @@
     font-size: 1.6rem;
 }
 .audio-player #play-btn {
-    background-image: url('../img/icons8-play-64.png');
+    background-image: url('../img/icons8-play-64\ \(1\).png');
     background-size: cover;
     width: 75px;
     height: 75px;
    margin: 0 auto;
 }
 .audio-player #play-btn.pause {
-    background-image: url('../img/icons8-pause-64.png');
+    background-image: url('../img/icons8-pause-64\ \(1\).png');
 }
